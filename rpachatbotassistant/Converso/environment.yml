@@ -1,0 +1,7 @@
+name: converso
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - poetry=1.4.0
+  - python-dotenv=1.0.0

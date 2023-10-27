@@ -1,0 +1,23 @@
+name: model-env
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.11
+  - pip:
+      - azure-ai-ml
+      - azure-common
+      - azure-core
+      - azure-identity
+      - azure-storage-blob
+      - pandas
+      - python-dotenv
+      - mlflow
+      - azureml-mlflow
+      - charset-normalizer
+      - transformers
+      - torch==2.0.1
+      - datasets
+      - requests
+      - scikit-learn

@@ -1,0 +1,6 @@
+name: rpasimulator
+channels:
+  - defaults
+dependencies:
+  - python=3.9.16
+  - poetry=1.4.0

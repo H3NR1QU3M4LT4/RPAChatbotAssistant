@@ -1,0 +1,233 @@
+id,text,greetings,goodbye_prompt,change_nib_or_iban,request_parking_lot,request_office_table_office,request_time_off,nothing_related
+2241,Ineed to request time off from 5-06-2024 to 9-06-2024.,False,False,False,False,False,True,False
+433,Can you please book a parking lot for me in the Guarda office park l1 on 7-05-2023?,False,False,False,True,False,False,False
+906,"I need to book a parking lot in the Guarda office park b1 for 6-08-2023, can you assist me?",False,False,False,True,False,False,False
+1194,"I need to make a reservation for the Braga office, specifically in room A1, on October 1st, 2023.",False,False,False,False,True,False,False
+1393,"Hi, stranger! How has life unfolded since we last crossed paths?",True,False,False,False,False,False,False
+687,Until next time!,False,True,False,False,False,False,False
+1215,"Hey, stranger!",True,False,False,False,False,False,False
+2029,Imagine you're writing a synopsis for a movie based on your life. How would you summarize the plot in two sentences?,False,False,False,False,False,False,True
+1992,I would like to request time off on 21-12-2023.,False,False,False,False,False,True,False
+1308,"It's time to bid adieu, but our bond remains unbroken.",False,True,False,False,False,False,False
+437,The gentle swaying of palm trees in the breeze set the scene for a tropical vacation.,False,False,False,False,True,False,False
+1092,Do you believe in the existence of invisible unicorns? Why or why not?,False,False,False,False,False,False,True
+2083,Howdy-do!,True,False,False,False,False,False,False
+274,"Hi, buddy!",True,False,False,False,False,False,False
+999,I want to replace my Workday NIB with PT50934350817604102867295.,False,False,True,False,False,False,False
+335,"No particular attachments to possessions, finding richness in experiences.",False,False,False,False,False,False,True
+480,"Share a real-life problem you recently encountered, and we'll collaborate to find potential solutions.",False,False,False,False,False,False,True
+1312,Can you please arrange a parking spot for me in the Braga office park b2 on 8-03-2023?,False,False,False,True,False,False,False
+981,"Not seeking any specific confirmations, finding truth in inner knowing.",False,False,False,False,False,False,True
+403,"Hello, my dear confidante! How can I support you today?",True,False,False,False,False,False,False
+1467,I need to request time off on 11-04-2024.,False,False,False,False,False,True,False
+613,Keep up the good work!,False,True,False,False,False,False,False
+463,My Workday IBAN requires a modification to PT50774531357960114752137.,False,False,True,False,False,False,False
+695,"With a soft glow, the moon illuminated the path for nighttime adventurers.",False,False,False,False,True,False,False
+1759,I wish to set my Workday NIB to PT50568656394567487324571.,False,False,True,False,False,False,False
+885,Can you help me reserve a parking spot in the Lisbon office park l1 on 4-05-2023?,False,False,False,True,False,False,False
+2165,Could you please arrange a parking space for me in the Lisbon office park r1 on 4-25-2023?,False,False,False,True,False,False,False
+1018,I need to set my NIB in Workday to PT50480261940764588858835,False,False,True,False,False,False,False
+59,"Hello! You have the power to make a difference, so go out and do great things.",True,False,False,False,False,False,False
+1067,Can you please book a parking lot for me in the Guarda office park r1 on 6-05-2023?,False,False,False,True,False,False,False
+161,"With a burst of colors, the sky painted a magnificent sunset over the horizon.",False,False,False,False,True,False,False
+1395,I need to change my Workday NIB to PT50890939092663438046053.,False,False,True,False,False,False,False
+86,I want to modify my Workday NIB to PT50201360340616681320306.,False,False,True,False,False,False,False
+721,I would like to reserve a parking spot in the Porto office park f1 for 6-06-2023. Can you assist me?,False,False,False,True,False,False,False
+1779,Have an extraordinary day!,False,True,False,False,False,False,False
+1612,Can you help me book a parking lot in the Vila Real office park l2 on 5-24-2023?,False,False,False,True,False,False,False
+648,Wishing you success and happiness on your journey. Farewell!,False,True,False,False,False,False,False
+169,I need to arrange a parking space in the Lisbon office park b2 for 4-10-2023. Can you assist me?,False,False,False,True,False,False,False
+387,"Greetings, my kindred spirit! I hope this day brings you serenity.",True,False,False,False,False,False,False
+1116,"Hola, amigo! Â¿CÃ³mo estÃ¡s?",True,False,False,False,False,False,False
+1792,"I need to arrange a parking space in the Lisbon office park b1 for 6-16-2023, can you assist me?",False,False,False,True,False,False,False
+1885,"I need to make a reservation for the Braga office, specifically in room A1, on December 27th, 2023.",False,False,False,False,True,False,False
+138,"Can you help me secure a spot in the Funchal office, specifically in room C1, on January 8th, 2023?",False,False,False,False,True,False,False
+275,My Workday IBAN needs to be changed to PT50204125574902887024852.,False,False,True,False,False,False,False
+557,I need to request time off on 13th July 2023.,False,False,False,False,False,True,False
+1324,"Not seeking any specific information, just enjoying the conversation.",False,False,False,False,False,False,True
+993,"I'm looking to book an office in Porto, preferably in room C2, from September 19th to 22nd.",False,False,False,False,True,False,False
+353,"To change my Workday NIB, I wish to set it to PT50465216413519278874562.",False,False,True,False,False,False,False
+519,"Can you help me book a parking lot in the Madeira office park r2, on 5-18-2023?",False,False,False,True,False,False,False
+2255,"If you were a character in a video game, what would your special ability be?",False,False,False,False,False,False,True
+347,Could you please arrange a parking space for me in the Lisbon office park r1 on 4-19-2023?,False,False,False,True,False,False,False
+134,"Could you assist me in securing a place in the Coimbra office, in the room b1, for the dates of 12-09-2023?",False,False,False,False,True,False,False
+385,"Ahoy, matey!",True,False,False,False,False,False,False
+1858,Have a good one!,False,True,False,False,False,False,False
+278,"I need to book a place in the SetÃºbal office, specifically in room C2, for September 11th, 2023.",False,False,False,False,True,False,False
+1417,"Not in the mood for anything specific, just going with the flow.",False,False,False,False,False,False,True
+1195,My Workday IBAN needs to be changed to PT50464894231789126643489.,False,False,True,False,False,False,False
+2035,My Workday IBAN should be updated to PT50130093829287987907889.,False,False,True,False,False,False,False
+1291,Hi! Keep being true to yourself and embracing your uniqueness.,True,False,False,False,False,False,False
+2198,My Workday NIB should be updated to PT50380141149112380373202.,False,False,True,False,False,False,False
+2132,"Can you book me a spot in the Faro office, specifically in room A2, for September 3rd, 2023?",False,False,False,False,True,False,False
+769,Can you please arrange a parking spot for me in the Braga office park r1 on 5-29-2023?,False,False,False,True,False,False,False
+1984,Just taking a leisurely stroll with no particular destination in mind.,False,False,False,False,False,False,True
+571,"I need to book a parking lot in the Lisbon office park l2 for 8-05-2023, can you assist me?",False,False,False,True,False,False,False
+1486,I want to set my Workday NIB to PT50532427954395957806812,False,False,True,False,False,False,False
+912,The crackling sound of popcorn popping set the mood for a movie night at home.,False,False,False,False,True,False,False
+1078,"With a sense of awe, the visitors admired the intricate architecture of the historic cathedral.",False,False,False,False,True,False,False
+693,"I'm interested in reserving the SantarÃ©m office, specifically in room A1, for the weekend of November 7th to 8th, 2023. Can you help me with that?",False,False,False,False,True,False,False
+1101,"No specific desires or wishes, content with what the present holds.",False,False,False,False,False,False,True
+187,"No specific expectations for the future, finding peace in the unfolding.",False,False,False,False,False,False,True
+1237,"I need to book a parking lot in the Lisbon office park b2 for 5-03-2023, can you assist me?",False,False,False,True,False,False,False
+2195,"I need to arrange a parking space in the Lisbon office park b1 for 7-20-2023, can you assist me?",False,False,False,True,False,False,False
+1975,I need to request time off from 17-04-2024 to 21-04-2024.,False,False,False,False,False,True,False
+605,I would like to request time off from 12th July 2023 to 16th July 2023.,False,False,False,False,False,True,False
+1044,The chirping of birds added to the tranquility of the peaceful garden.,False,False,False,False,True,False,False
+2078,"I would like to book a parking lot in the BraganÃ§a office park b2 for 4-04-2023, can you help me with that?",False,False,False,True,False,False,False
+148,"Hi, fashionista!",True,False,False,False,False,False,False
+1757,"Not seeking any specific outcomes or conclusions, finding value in the process.",False,False,False,False,False,False,True
+1552,"Just embracing the simplicity of this moment, no need for complexity.",False,False,False,False,False,False,True
+1303,"I would like to request time off from the 3rd of June to the 20th of June, 2023.",False,False,False,False,False,True,False
+1415,"Can you help me reserve a office, the room in the Vila Real office, the room b1 on October 30th, 2023?",False,False,False,False,True,False,False
+2283,I would like to reserve a parking spot in the Porto office park f2 for 5-17-2023. Can you assist me?,False,False,False,True,False,False,False
+955,"Just taking a moment to be grateful for the blessings in life, no need for more.",False,False,False,False,False,False,True
+1566,"I need to make a reservation for the Coimbra office, specifically in room B2, on February 18th, 2023.",False,False,False,False,True,False,False
+1641,Could you please book a parking lot for me in the Guarda office park r1 on 3-24-2023?,False,False,False,True,False,False,False
+1957,"I would like to reserve a parking spot in the Lisbon office park f1 for 6-12-2023, can you help me with that?",False,False,False,True,False,False,False
+745,"Greetings! Keep smiling, for your smile brightens the world around you.",True,False,False,False,False,False,False
+2274,My Workday NIB must be updated to PT50221887652089838468573,False,False,True,False,False,False,False
+198,"The soft melody of a piano filled the concert hall, enchanting the audience.",False,False,False,False,True,False,False
+261,"Greetings, fellow dreamer! What wonders have you been imagining lately?",True,False,False,False,False,False,False
+1386,I want to replace my IBAN in Workday with PT50364287392136126625949.,False,False,True,False,False,False,False
+1896,Can you please book a parking lot for me in the BraganÃ§a office park f2 on 6-17-2023?,False,False,False,True,False,False,False
+115,"Greetings, my hiking buddy! Any breathtaking trails you've conquered recently?",True,False,False,False,False,False,False
+1200,"The flickering fireflies illuminated the night, creating a magical scene in the garden.",False,False,False,False,True,False,False
+2079,I need to request time off on 23rd June 2023 and 24th June 2023.,False,False,False,False,False,True,False
+2253,I need to request time off on 9-02-2024 and 10-02-2024.,False,False,False,False,False,True,False
+379,I would like to request time off on 22-09-2023 and 23-09-2023.,False,False,False,False,False,True,False
+12,"Could you assist me in securing a place in the Coimbra office, specifically in room B1, for December 1st, 2023?",False,False,False,False,True,False,False
+796,My NIB in Workday needs to be changed to PT50737648115699494402387.,False,False,True,False,False,False,False
+22,I need to reserve a parking lot in the Porto office park f1 for 6-27-2023. Can you assist me?,False,False,False,True,False,False,False
+165,Hi there! May your day be filled with opportunities to grow and learn.,True,False,False,False,False,False,False
+2069,"Goodbye, my love!",False,True,False,False,False,False,False
+995,My NIB in Workday requires a modification to PT50724402562435452386217.,False,False,True,False,False,False,False
+191,Can you please arrange a parking spot for me in the Braga office park f2 on 6-13-2023?,False,False,False,True,False,False,False
+1304,I need to request time off on 5-07-2024 and 6-07-2024.,False,False,False,False,False,True,False
+496,"Welcome, welcome! It's great to have you here.",True,False,False,False,False,False,False
+1638,"I need to arrange a parking space in the Lisbon office park l2 for 7-30-2023, can you assist me?",False,False,False,True,False,False,False
+2146,"A gentle breeze rustled the leaves, bringing relief from the summer heat.",False,False,False,False,True,False,False
+1055,Namaste!,True,False,False,False,False,False,False
+823,Good morning! I hope you have a day filled with laughter and joy.,True,False,False,False,False,False,False
+227,I need to change my Workday IBAN to PT50881966681439272189696.,False,False,True,False,False,False,False
+93,"Greetings, my fellow mindfulness practitioner! How have you been finding serenity?",True,False,False,False,False,False,False
+772,Could you please arrange a parking space for me in the Guarda office park l1 on 7-19-2023?,False,False,False,True,False,False,False
+1946,"With a sense of accomplishment, the gardener admired the colorful blooms in the flowerbeds.",False,False,False,False,True,False,False
+1514,"I'm interested in booking the Vila Real office, specifically in room C1, for the weekend of October 11th to 12th, 2023. Can you help me with that?",False,False,False,False,True,False,False
+1616,"Take care, and embrace the journey!",False,True,False,False,False,False,False
+1360,"Hi, cutie!",True,False,False,False,False,False,False
+1181,I need to request time off on 12-04-2024 and 13-04-2024.,False,False,False,False,False,True,False
+1537,Let's discuss effective ways to improve communication skills and build stronger relationships with others.,False,False,False,False,False,False,True
+927,I need to modify my Workday NIB to PT50451626032594199055620.,False,False,True,False,False,False,False
+1867,I want to update my Workday NIB to PT50497861222577424877890.,False,False,True,False,False,False,False
+1275,The scent of a pine forest filled the air as the hiker explored the mountain trail.,False,False,False,False,True,False,False
+1682,I need to request time off from 2023/06/03 to 2023/06/20.,False,False,False,False,False,True,False
+731,I need to request time off on 29-03-2024 and 30-03-2024.,False,False,False,False,False,True,False
+1202,Can you help me book a parking lot in the Coimbra office park l2 on 5-06-2023?,False,False,False,True,False,False,False
+1302,"No specific expectations for the day, finding beauty in the unexpected.",False,False,False,False,False,False,True
+1588,"To update my Workday IBAN, I want to set it to PT50500401967524551528924.",False,False,True,False,False,False,False
+1113,"The aroma of freshly baked bread wafted through the bakery, drawing customers inside.",False,False,False,False,True,False,False
+980,"No particular preferences for the pace, finding balance in every rhythm.",False,False,False,False,False,False,True
+319,"The scent of blooming lilacs filled the garden, announcing the arrival of spring.",False,False,False,False,True,False,False
+1522,"To update my Workday NIB, I wish to set it to PT50712356077211674846606.",False,False,True,False,False,False,False
+2263,"To update my NIB in Workday, I need to set it to PT50183960230997189366049.",False,False,True,False,False,False,False
+998,Take care and be well!,False,True,False,False,False,False,False
+223,I need to request time off on 18-05-2023.,False,False,False,False,False,True,False
+1438,"I need to book a office, the room in the Funchal office, the room c2, for the week of 7-09-2023.",False,False,False,False,True,False,False
+2047,I need to replace my Workday NIB with PT50560144966057325919522,False,False,True,False,False,False,False
+89,Could you please book a parking space for me in the Faro office park l1 on 6-22-2023?,False,False,False,True,False,False,False
+2234,My Workday NIB needs to be replaced with PT50591767383824056732283.,False,False,True,False,False,False,False
+4,"Hi there, my fellow night owl! What nocturnal adventures have you embarked upon?",True,False,False,False,False,False,False
+944,"Good day to you, my dear acquaintance!",True,False,False,False,False,False,False
+1082,"Hello, my dear friend of the written word! What literary treasures have you devoured?",True,False,False,False,False,False,False
+1294,I need to request time off from 14-06-2023 to 18-06-2023.,False,False,False,False,False,True,False
+1930,"The scent of lavender wafted through the air, creating a relaxing atmosphere in the spa.",False,False,False,False,True,False,False
+1111,"Hey, champion! What victories have you celebrated recently?",True,False,False,False,False,False,False
+1560,"Hey there, my fellow lover of culture! What fascinating traditions have you encountered?",True,False,False,False,False,False,False
+1391,"The first rays of sunlight painted the sky in golden hues, signaling the start of a new day.",False,False,False,False,True,False,False
+2088,Just passing by to let you know I have nothing specific to discuss.,False,False,False,False,False,False,True
+1179,"I need to book a parking lot in the Vila Real office park l2 for 4-06-2023, can you assist me?",False,False,False,True,False,False,False
+1733,"Take care, and let your light illuminate the world!",False,True,False,False,False,False,False
+758,Fare thee well!,False,True,False,False,False,False,False
+857,"Can you book me a place in the Faro office, specifically in room C1, for the week of May",False,False,False,False,True,False,False
+612,Can you help me book a parking lot in the Coimbra office park r2 on 9-04-2023?,False,False,False,True,False,False,False
+1671,Could you please arrange a parking space for me in the Leiria office park l2 on 5-20-2023?,False,False,False,True,False,False,False
+1145,I need to request time off on 30th June 2023 and 1st July 2023.,False,False,False,False,False,True,False
+580,"I need to reserve a parking spot in the Lisbon office park f1 for 4-02-2023, can you assist me?",False,False,False,True,False,False,False
+1636,"Can you help me reserve a spot in the Algarve office, particularly in room B1, for July 8th, 2023?",False,False,False,False,True,False,False
+386,I want to modify my Workday NIB to PT50333171048277688215292.,False,False,True,False,False,False,False
+1213,Wishing you a life filled with laughter and love!,False,True,False,False,False,False,False
+1969,"Welcome back, my soulful friend! How has your inner world evolved?",True,False,False,False,False,False,False
+633,I would like to request time off from 6-09-2023 to 10-09-2023.,False,False,False,False,False,True,False
+513,"Farewell, dear friend. May our paths intertwine again.",False,True,False,False,False,False,False
+2005,I need to amend my Workday NIB to PT50301399436196131869089.,False,False,True,False,False,False,False
+1642,"The scent of pine needles filled the forest, evoking memories of past camping trips.",False,False,False,False,True,False,False
+434,I would like to request time off from 17-05-2023 to 21-05-2023.,False,False,False,False,False,True,False
+1165,"With a sense of awe, the travelers admired the majestic mountains in the distance.",False,False,False,False,True,False,False
+371,Can you help me reserve a parking spot in the BraganÃ§a office park f2 on 5-28-2023?,False,False,False,True,False,False,False
+151,The fragrance of pine trees filled the air as the hiker ventured deeper into the forest.,False,False,False,False,True,False,False
+2251,"To modify my Workday IBAN, I wish to set it to PT50514545293657393070098.",False,False,True,False,False,False,False
+1314,I want to substitute my Workday NIB with PT50087433669392393842445,False,False,True,False,False,False,False
+2092,"I need to request time off from 2023, June 3rd to June 20th.",False,False,False,False,False,True,False
+253,Can you help me book a parking lot in the Coimbra office park r2 on 5-21-2023?,False,False,False,True,False,False,False
+183,Hello! Sending you strength and courage to overcome any obstacles.,True,False,False,False,False,False,False
+342,"No specific attachments to possessions, finding richness in experiences.",False,False,False,False,False,False,True
+2196,Let's create a list of essential travel tips for someone visiting a foreign country for the first time.,False,False,False,False,False,False,True
+451,"Warm greetings, my fellow puzzle solver! What challenges have you conquered?",True,False,False,False,False,False,False
+1293,"I would like to reserve a parking spot in the BraganÃ§a office park r1 for 9-02-2023, can you help me with that?",False,False,False,True,False,False,False
+2070,Peace out!,False,True,False,False,False,False,False
+951,Greetings! I hope you're surrounded by love and happiness.,True,False,False,False,False,False,False
+2173,"It's time to say goodbye, but our friendship will endure.",False,True,False,False,False,False,False
+651,"To alter my Workday NIB, I want to set it to PT50804280970603883260281.",False,False,True,False,False,False,False
+1317,My Workday IBAN needs to be changed to PT50162836721567350985217.,False,False,True,False,False,False,False
+1407,The crackling applause filled the theater after an outstanding performance by the actors.,False,False,False,False,True,False,False
+123,I would like to request time off from 3/6/23 to 20/6/23.,False,False,False,False,False,True,False
+523,The distant hoot of an owl added to the mystery of the dark forest at night.,False,False,False,False,True,False,False
+584,"The scent of eucalyptus filled the air, creating a refreshing atmosphere in the spa.",False,False,False,False,True,False,False
+2032,"No specific agenda for the day, embracing spontaneity and serendipity.",False,False,False,False,False,False,True
+868,Hi! I hope you're having a wonderful day.,True,False,False,False,False,False,False
+359,I need to request time off on 14th July 2023 and 15th July 2023.,False,False,False,False,False,True,False
+558,I need to request time off from 3/6/23 to 20/6/23.,False,False,False,False,False,True,False
+566,I need to change the NIB in Workday to PT50323544681543749733859.,False,False,True,False,False,False,False
+616,I want to modify the NIB in Workday to PT50517525406610156619711.,False,False,True,False,False,False,False
+935,Can you please arrange a parking spot for me in the Braga office park f2 on 7-24-2023?,False,False,False,True,False,False,False
+1151,"Just enjoying the serenity of the present moment, no need for noise.",False,False,False,False,False,False,True
+653,Until we meet under the stars!,False,True,False,False,False,False,False
+1902,I would like to request time off from 24-05-2023 to 28-05-2023.,False,False,False,False,False,True,False
+986,Have a great day ahead and farewell!,False,True,False,False,False,False,False
+639,"Not seeking any specific recognition, finding fulfillment in the journey.",False,False,False,False,False,False,True
+425,"Just embracing the simplicity of being, no need for constant doing.",False,False,False,False,False,False,True
+1034,I need to request time off from 26-06-2024 to 30-06-2024.,False,False,False,False,False,True,False
+1781,"I'm looking to book an office in Porto, preferably in room C2, from September 18th to 21st.",False,False,False,False,True,False,False
+1231,My NIB in Workday must be changed to PT50918186381213672887830.,False,False,True,False,False,False,False
+1529,"I'm interested in booking the Vila Real office, specifically in room C1, for the weekend of October 14th to 15th, 2023. Can you help me with that?",False,False,False,False,True,False,False
+234,I would like to reserve a parking spot in the Porto office park l2 for 5-22-2023. Can you assist me?,False,False,False,True,False,False,False
+879,"I need to arrange a parking space in the Lisbon office park b2 for 6-28-2023, can you assist me?",False,False,False,True,False,False,False
+246,Can you please reserve a parking spot for me in the BraganÃ§a office park b1 on 4-21-2023?,False,False,False,True,False,False,False
+1217,Long time no see!,True,False,False,False,False,False,False
+1828,"Could you assist me in securing a place in the Coimbra office, specifically in room B1, for the dates of December 9th, 2023?",False,False,False,False,True,False,False
+157,"I need to book a parking lot in the Guarda office park l2 for 8-23-2023, can you assist me?",False,False,False,True,False,False,False
+60,"Could you assist me in securing a place in the Faro office, the room b2 for the weekend of 18-11-2023?",False,False,False,False,True,False,False
+706,I would like to request time off on 9-11-2023.,False,False,False,False,False,True,False
+763,Can you help me reserve a parking spot in the Vila Real office park b2 on 5-16-2023?,False,False,False,True,False,False,False
+1989,"Bye, with a gentle whisper of gratitude!",False,True,False,False,False,False,False
+1543,"Hello, my dear connoisseur of life! What simple pleasures have you embraced?",True,False,False,False,False,False,False
+1768,"Until we meet again, take care and goodbye.",False,True,False,False,False,False,False
+1660,"Can you help me reserve a spot in the Algarve office, particularly in room B1, for July 5th, 2023?",False,False,False,False,True,False,False
+1313,My Workday NIB needs to be replaced with PT50591767383824056732283,False,False,True,False,False,False,False
+1316,Wishing you boundless courage and strength!,False,True,False,False,False,False,False
+1424,"Welcome, my partner in innovation! Any groundbreaking ideas brewing in your mind?",True,False,False,False,False,False,False
+1535,"If you could plan a dream vacation for someone, where would you send them and why?",False,False,False,False,False,False,True
+226,"Hey there, my fellow animal lover! Any adorable furry friends in your life?",True,False,False,False,False,False,False
+773,"I need to book a place in the SetÃºbal office, specifically in room C2, for the dates of December 19th, 2023.",False,False,False,False,True,False,False
+252,"Not seeking any specific answers, content with the mysteries of life.",False,False,False,False,False,False,True
+1361,"I need to book a parking lot in the Lisbon office park l1 for 7-22-2023, can you assist me?",False,False,False,True,False,False,False
+358,My Workday NIB should be updated to PT50031946924343379080208.,False,False,True,False,False,False,False
+1827,"I would like to reserve a parking spot in the Lisbon office park b2 for 8-03-2023, can you help me with that?",False,False,False,True,False,False,False
+1496,"I need to arrange a parking space in the Leiria office park b2 for 4-22-2023, can you assist me?",False,False,False,True,False,False,False
+1561,Can you please arrange a parking spot for me in the Braga office park r2 on 4-24-2023?,False,False,False,True,False,False,False
+1045,"If you could transform into any inanimate object for a day, what would you choose and how would you spend your day?",False,False,False,False,False,False,True
+1035,My Workday NIB needs to be updated to PT50473450751086936626649.,False,False,True,False,False,False,False
+1998,"No specific dreams or ambitions, content with the journey itself.",False,False,False,False,False,False,True
+1945,How's the family?,True,False,False,False,False,False,False
+384,"Hey there, handsome!",True,False,False,False,False,False,False

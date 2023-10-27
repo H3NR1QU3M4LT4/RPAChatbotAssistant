@@ -1,0 +1,6 @@
+name: RPAChatbotAssistant
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - poetry=1.4.0

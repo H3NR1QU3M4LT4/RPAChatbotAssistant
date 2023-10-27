@@ -1,0 +1,47 @@
+defaults:
+  - override hydra/hydra_logging: disabled
+  - override hydra/job_logging: disabled
+
+data:
+  name: rpa-chatbot-assistant-intentions-csv
+  description: RPA Chatbot Assistant Intentions
+  version: 0.1.0
+  data_path: data/processed/data.csv
+
+cluster:
+  name: rpachat-cluster-m60
+  type: amlcompute
+  size: Standard_NV6
+  min_instances: 0
+  max_instances: 18
+  idle_time_before_scale_down: 180
+  tier: Dedicated
+
+environment:
+  name: rpachat-custom-env
+  dependencies_dir: src/dependencies
+  version: 1.2.0
+  tags: { "datasets": "2.13.1", "transformers": "4.30.2", "torch": "2.0.1" }
+  description: Custom environment for RPA Chatbot Assistant Intentions pipeline
+
+experiment:
+  name: bert_intentions_experiment
+
+pipeline:
+  name: distilroberta_intentions_pipeline
+  description: Distilroberta Fine-tuning data_prep-train pipeline
+
+data_prep_component:
+  src_dir: src/amls_components/data_prep/
+  test_size: 0.10
+  val_size: 0.10
+  tokenizer: distilroberta-base
+
+train_component:
+    src_dir: src/amls_components/train/
+    train_batch_size: 32
+    eval_batch_size: 32
+    num_train_epochs: 100
+    learning_rate: 2e-5
+    registered_model_name: distilrobertav2-rpa-intentions
+    model_name: distilroberta-base

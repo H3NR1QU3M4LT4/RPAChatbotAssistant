@@ -1,0 +1,7 @@
+name: DistilDataQuarry
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - poetry=1.4.0
+  - python=3.10.12
